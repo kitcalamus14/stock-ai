@@ -3,7 +3,7 @@ The entire project is seperated into many mini project which focus on particular
   
 ## Mini Project Index:
 1. [Bursa Stock Demographic Scraper](https://github.com/kitcalamus14/stock-ai/blob/main/Bursa-Scraper-Demographic.ipynb)
-2. Stock History Price Scraper
+2. [Stock History Price Scraper](https://github.com/kitcalamus14/stock-ai/blob/main/History%20Price%20Scraper.ipynb)
 3. Stock AI using tf_agents
 4. Stock News Google Scrapper
 5. Stock Text Mining
