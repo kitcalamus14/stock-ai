@@ -1,5 +1,5 @@
 # stock-ai
-The entire project is seperated into many mini project which focus on particular feature of achieving an AI agent that is able to buy and sell base on prediction. All files within the repository are required for the coding.
+The entire project is seperated into many mini project which focus on particular feature of achieving an AI agent that is able to buy and sell based on prediction. Most files within the repository are required for some other file and codes to run.
   
 ## Mini Project Index:
 1. Stock Demographic Scraper
